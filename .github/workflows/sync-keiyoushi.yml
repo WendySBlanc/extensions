@@ -1,0 +1,40 @@
+name: Sync Keiyoushi repository
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-keiyoushi-repository
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.repository == 'WendySBlanc/extensions'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          ref: repo
+
+      - name: Merge upstream updates
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote add upstream https://github.com/keiyoushi/extensions.git
+          git fetch --no-tags upstream repo
+
+          if git merge-base --is-ancestor upstream/repo HEAD; then
+            echo "Repository is already up to date."
+            exit 0
+          fi
+
+          git merge --no-edit upstream/repo
+          git push origin HEAD:repo
