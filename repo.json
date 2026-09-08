@@ -2,6 +2,7 @@
   "index_v2": "https://raw.githubusercontent.com/WendySBlanc/extensions/repo/index.pb",
   "meta": {
     "name": "Nova Extensions",
+    "shortName": "NOVA",
     "website": "https://github.com/WendySBlanc/extensions",
     "signingKeyFingerprint": "f25a2ca5f93f7af24de9afff1a5afc2cf7600d3d87af03d8497a0ae4865de701"
   }
