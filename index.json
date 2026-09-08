@@ -1223,6 +1223,27 @@
         ]
       },
       {
+        "name": "NovelFrance",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.novelfrance",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/d31ab8c/tachiyomi-fr.novelfrance-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/d31ab8c/tachiyomi-fr.novelfrance-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104002",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2458346324071579795",
+            "name": "NovelFrance",
+            "language": "fr",
+            "homeUrl": "https://novelfrance.fr"
+          }
+        ]
+      },
+      {
         "name": "Poseidon Scans",
         "packageName": "eu.kanade.tachiyomi.extension.fr.poseidonscans",
         "resources": {

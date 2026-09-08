@@ -449,6 +449,16 @@
       "sha256": "f2ff90150edd4d90d1bb76229adcdbec95b6e0c2dcdd44ea7a093bd33a8d541e"
     }
   },
+  "eu.kanade.tachiyomi.extension.fr.novelfrance": {
+    "apk": {
+      "name": "tachiyomi-fr.novelfrance-v1.4.2.apk",
+      "sha256": "58339f32ddbcb82c88a984c1751e116e2d78041b911e871fa1f450b5cc9ddfd5"
+    },
+    "jar": {
+      "name": "tachiyomi-fr.novelfrance-v1.4.2.jar",
+      "sha256": "9ccac0887615772d5a30385f62f25392f7d9421c6a0befbc1148ede0f67849c2"
+    }
+  },
   "eu.kanade.tachiyomi.extension.fr.poseidonscans": {
     "apk": {
       "name": "tachiyomi-fr.poseidonscans-v1.4.52.apk",
