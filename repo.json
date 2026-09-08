@@ -1,8 +1,8 @@
 {
-  "index_v2": "https://github.com/keiyoushi/extensions/raw/repo/index.pb",
+  "index_v2": "https://raw.githubusercontent.com/WendySBlanc/extensions/repo/index.pb",
   "meta": {
-    "name": "Keiyoushi",
-    "website": "https://keiyoushi.github.io",
-    "signingKeyFingerprint": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2"
+    "name": "Nova Extensions",
+    "website": "https://github.com/WendySBlanc/extensions",
+    "signingKeyFingerprint": "f25a2ca5f93f7af24de9afff1a5afc2cf7600d3d87af03d8497a0ae4865de701"
   }
 }
