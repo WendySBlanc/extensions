@@ -591,12 +591,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.lanortrad": {
     "apk": {
-      "name": "tachiyomi-fr.lanortrad-v1.4.3.apk",
-      "sha256": "a33a78f5980238d7e403cf1b1235a2aaec6bc424b2994e8c19ba9fc0b0fb7ee1"
+      "name": "tachiyomi-fr.lanortrad-v1.4.4.apk",
+      "sha256": "b7dd24b70d79c1a77b3d45287ea5ebcd408d3a533912565335ba508373293945"
     },
     "jar": {
-      "name": "tachiyomi-fr.lanortrad-v1.4.3.jar",
-      "sha256": "e6e2131a7b4cc9429e626225a907dc31689a02349f0e0171d4aa64f140347b69"
+      "name": "tachiyomi-fr.lanortrad-v1.4.4.jar",
+      "sha256": "c524ae59712dab1dac0f9edbbe169d69f99e4594227ade7e405d0fbc8534c2e4"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.lelmanga": {

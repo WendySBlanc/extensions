@@ -1550,13 +1550,13 @@
         "name": "LanorTrad",
         "packageName": "eu.kanade.tachiyomi.extension.fr.lanortrad",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lanortrad-v1.4.3.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/4c61881/tachiyomi-fr.lanortrad-v1.4.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/lanortrad/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lanortrad-v1.4.3.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/4c61881/tachiyomi-fr.lanortrad-v1.4.4.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104003",
-        "versionName": "1.4.3",
+        "versionCode": "104004",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
