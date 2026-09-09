@@ -1151,9 +1151,9 @@
         "name": "AralosBD",
         "packageName": "eu.kanade.tachiyomi.extension.fr.aralosbd",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.aralosbd-v1.4.8.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adb3d2d/tachiyomi-fr.aralosbd-v1.4.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/aralosbd/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.aralosbd-v1.4.8.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adb3d2d/tachiyomi-fr.aralosbd-v1.4.8.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104008",
@@ -1298,9 +1298,9 @@
         "name": "Dassou Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.dassouscan",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.dassouscan-v1.4.52.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adb3d2d/tachiyomi-fr.dassouscan-v1.4.52.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/dassouscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.dassouscan-v1.4.52.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adb3d2d/tachiyomi-fr.dassouscan-v1.4.52.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104052",

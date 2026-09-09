@@ -402,11 +402,11 @@
   "eu.kanade.tachiyomi.extension.fr.aralosbd": {
     "apk": {
       "name": "tachiyomi-fr.aralosbd-v1.4.8.apk",
-      "sha256": "c46a9400af3fc87c3f55aebfedb0797b4f04add8a141a40c5fbf4121d9b32778"
+      "sha256": "72c9de36f48194d17ac4c8bb4e609e57ee4b9664db55f768e2da5654f93a2135"
     },
     "jar": {
       "name": "tachiyomi-fr.aralosbd-v1.4.8.jar",
-      "sha256": "07a426a748f0e08716a4fd2a07cfea4b214cad4540ffc8c1c783411ff322891b"
+      "sha256": "e2cfd698e4b66a481994483c321b5585204c7e5b5f18e0275b0d1665f62c7f55"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.astralmanga": {
@@ -472,11 +472,11 @@
   "eu.kanade.tachiyomi.extension.fr.dassouscan": {
     "apk": {
       "name": "tachiyomi-fr.dassouscan-v1.4.52.apk",
-      "sha256": "4821e1c993d6c03cf30b0fd1c91229d3cdbd61fb7c2233ffb5269d2cf74f39fe"
+      "sha256": "981d2350dd1328e0ea48cbfde7931a8c76e30ffe2db5c59cb68c8bd2927d14f3"
     },
     "jar": {
       "name": "tachiyomi-fr.dassouscan-v1.4.52.jar",
-      "sha256": "e7c8d0667ef26296668f8624bc73e42bbad3471cf7566e10508adbffdb5f7a87"
+      "sha256": "073c5808f4225d0226db0f2925452e108aa75ca03c3dc12234156bb7a8c20795"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.epsilonscan": {
