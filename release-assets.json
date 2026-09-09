@@ -611,12 +611,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.lelscan": {
     "apk": {
-      "name": "tachiyomi-fr.lelscan-v1.4.2.apk",
-      "sha256": "8769f12b3f6f05459908ebcbef2e4be2d12a68c4a50a6b55d8eaf82962a7fb6a"
+      "name": "tachiyomi-fr.lelscan-v1.4.3.apk",
+      "sha256": "0fa73ff6649d951cd39fe45c106545f03dee3366bb922a5a2059f8c707764d05"
     },
     "jar": {
-      "name": "tachiyomi-fr.lelscan-v1.4.2.jar",
-      "sha256": "9c8eef46db7f06d9ceae14fe49c8a4501b40d2e1daeded3e6333711cc4cb31a2"
+      "name": "tachiyomi-fr.lelscan-v1.4.3.jar",
+      "sha256": "4c38ea93821e0e09c3debfe8405a22b22936cbf0a3279523ea3cf82640ab0028"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.lelscanvf": {

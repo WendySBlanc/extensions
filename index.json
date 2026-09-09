@@ -1592,13 +1592,13 @@
         "name": "Lelscan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.lelscan",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lelscan-v1.4.2.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/847c18d/tachiyomi-fr.lelscan-v1.4.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/lelscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lelscan-v1.4.2.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/847c18d/tachiyomi-fr.lelscan-v1.4.3.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "versionCode": "104003",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
