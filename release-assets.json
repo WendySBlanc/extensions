@@ -471,12 +471,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.dassouscan": {
     "apk": {
-      "name": "tachiyomi-fr.dassouscan-v1.4.52.apk",
-      "sha256": "981d2350dd1328e0ea48cbfde7931a8c76e30ffe2db5c59cb68c8bd2927d14f3"
+      "name": "tachiyomi-fr.dassouscan-v1.4.53.apk",
+      "sha256": "2b83a46fb5477e25f03522a6f9099fe26eed75c6ce1a4910f21e0cafc464a645"
     },
     "jar": {
-      "name": "tachiyomi-fr.dassouscan-v1.4.52.jar",
-      "sha256": "073c5808f4225d0226db0f2925452e108aa75ca03c3dc12234156bb7a8c20795"
+      "name": "tachiyomi-fr.dassouscan-v1.4.53.jar",
+      "sha256": "e45ea706f41d37c0ad3ba3204af8d64541fc657eb778b5901a209ba511cd5ddf"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.epsilonscan": {
