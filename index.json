@@ -962,13 +962,13 @@
         "name": "Philia Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.philiascans",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-en.philiascans-v1.4.60.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-en.philiascans-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/en/philiascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-en.philiascans-v1.4.60.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-en.philiascans-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104060",
-        "versionName": "1.4.60",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1130,13 +1130,13 @@
         "name": "AnimeSama",
         "packageName": "eu.kanade.tachiyomi.extension.fr.animesama",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.animesama-v1.4.18.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.animesama-v1.4.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/animesama/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.animesama-v1.4.18.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.animesama-v1.4.19.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104018",
-        "versionName": "1.4.18",
+        "versionCode": "104019",
+        "versionName": "1.4.19",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1151,13 +1151,13 @@
         "name": "AralosBD",
         "packageName": "eu.kanade.tachiyomi.extension.fr.aralosbd",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.aralosbd-v1.4.7.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.aralosbd-v1.4.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/aralosbd/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.aralosbd-v1.4.7.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.aralosbd-v1.4.8.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104007",
-        "versionName": "1.4.7",
+        "versionCode": "104008",
+        "versionName": "1.4.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1172,13 +1172,13 @@
         "name": "Astral-Manga",
         "packageName": "eu.kanade.tachiyomi.extension.fr.astralmanga",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.astralmanga-v1.4.49.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.astralmanga-v1.4.50.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/astralmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.astralmanga-v1.4.49.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.astralmanga-v1.4.50.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104049",
-        "versionName": "1.4.49",
+        "versionCode": "104050",
+        "versionName": "1.4.50",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1190,16 +1190,163 @@
         ]
       },
       {
+        "name": "Harmony-Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.bananascan",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.bananascan-v1.6.56.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/bananascan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.bananascan-v1.6.56.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3121632933690925888",
+            "name": "Harmony-Scan",
+            "language": "fr",
+            "homeUrl": "https://harmony-scan.fr"
+          }
+        ]
+      },
+      {
+        "name": "BigSolo",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.bigsolo",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.bigsolo-v1.4.6.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/bigsolo/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.bigsolo-v1.4.6.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104006",
+        "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4410528266393104437",
+            "name": "BigSolo",
+            "language": "fr",
+            "homeUrl": "https://bigsolo.org"
+          }
+        ]
+      },
+      {
+        "name": "Blossom Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.blossomscans",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.blossomscans-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/blossomscans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.blossomscans-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5819845963401393451",
+            "name": "Blossom Scans",
+            "language": "fr",
+            "homeUrl": "https://blossom-scans.com"
+          }
+        ]
+      },
+      {
+        "name": "Blue Solo",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.bluesolo",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.bluesolo-v1.6.6.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/bluesolo/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.bluesolo-v1.6.6.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2095949455655924623",
+            "name": "Blue Solo",
+            "language": "fr",
+            "homeUrl": "https://bluesolo.org"
+          }
+        ]
+      },
+      {
+        "name": "ChaosTrad",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.chaostrad",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.chaostrad-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/chaostrad/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.chaostrad-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104002",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7263540291758019148",
+            "name": "ChaosTrad",
+            "language": "fr",
+            "homeUrl": "https://chaostrad.fr"
+          }
+        ]
+      },
+      {
+        "name": "Dassou Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.dassouscan",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.dassouscan-v1.4.52.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/dassouscan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.dassouscan-v1.4.52.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104052",
+        "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7036720639283559699",
+            "name": "Dassou Scan",
+            "language": "fr",
+            "homeUrl": "https://dassouscan.com"
+          }
+        ]
+      },
+      {
+        "name": "Epsilon Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.epsilonscan",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.epsilonscan-v1.4.56.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/epsilonscan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.epsilonscan-v1.4.56.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104056",
+        "versionName": "1.4.56",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2577248042661857530",
+            "name": "Epsilon Scan",
+            "language": "fr",
+            "homeUrl": "https://epsilonscan.to"
+          }
+        ]
+      },
+      {
         "name": "FMTEAM",
         "packageName": "eu.kanade.tachiyomi.extension.fr.fmteam",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.fmteam-v1.6.9.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.fmteam-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/fmteam/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.fmteam-v1.6.9.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.fmteam-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1214,13 +1361,13 @@
         "name": "FuryoSquad",
         "packageName": "eu.kanade.tachiyomi.extension.fr.furyosquad",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.furyosquad-v1.4.6.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.furyosquad-v1.4.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/furyosquad/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.furyosquad-v1.4.6.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.furyosquad-v1.4.7.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104006",
-        "versionName": "1.4.6",
+        "versionCode": "104007",
+        "versionName": "1.4.7",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1232,16 +1379,142 @@
         ]
       },
       {
+        "name": "Hana Book",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.hanabook",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.hanabook-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/hanabook/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.hanabook-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104002",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4125236041054867131",
+            "name": "Hana Book",
+            "language": "fr",
+            "homeUrl": "https://www.hana-book.fr"
+          }
+        ]
+      },
+      {
+        "name": "Hentai Origines",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.hentaiorigines",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.hentaiorigines-v1.6.59.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/hentaiorigines/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.hentaiorigines-v1.6.59.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3875672872924535086",
+            "name": "Hentai Origines",
+            "language": "fr",
+            "homeUrl": "https://hentai-origines.com"
+          }
+        ]
+      },
+      {
+        "name": "Hentai Scan Reader",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.hentaiscanreader",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.hentaiscanreader-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/hentaiscanreader/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.hentaiscanreader-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104002",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8376548397716758785",
+            "name": "Hentai Scan Reader",
+            "language": "fr",
+            "homeUrl": "https://hentai.scanreader.net"
+          }
+        ]
+      },
+      {
+        "name": "Hentai-Scantrad",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.hentaiscantrad",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.hentaiscantrad-v1.6.57.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/hentaiscantrad/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.hentaiscantrad-v1.6.57.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6747208512135394944",
+            "name": "Hentai-Scantrad",
+            "language": "fr",
+            "homeUrl": "https://hentai-scantrad.org"
+          }
+        ]
+      },
+      {
+        "name": "HentaiZone",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.hentaizone",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.hentaizone-v1.6.56.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/hentaizone/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.hentaizone-v1.6.56.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4897336575284771091",
+            "name": "HentaiZone",
+            "language": "fr",
+            "homeUrl": "https://hentaizone.xyz"
+          }
+        ]
+      },
+      {
+        "name": "HistoireDHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.histoiredhentai",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.histoiredhentai-v1.6.55.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/histoiredhentai/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.histoiredhentai-v1.6.55.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106055",
+        "versionName": "1.6.55",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6899189456839494153",
+            "name": "HistoireDHentai",
+            "language": "fr",
+            "homeUrl": "https://hhentai.fr"
+          }
+        ]
+      },
+      {
         "name": "Japscan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.japscan-v1.4.71.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.japscan-v1.4.72.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/japscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.japscan-v1.4.71.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.japscan-v1.4.72.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104071",
-        "versionName": "1.4.71",
+        "versionCode": "104072",
+        "versionName": "1.4.72",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1253,16 +1526,58 @@
         ]
       },
       {
+        "name": "Kiwiya Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.kiwiyascans",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.kiwiyascans-v1.4.33.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/kiwiyascans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.kiwiyascans-v1.4.33.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104033",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8654267899929745421",
+            "name": "Kiwiya Scans",
+            "language": "fr",
+            "homeUrl": "https://kiwiyascans.com"
+          }
+        ]
+      },
+      {
+        "name": "LanorTrad",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.lanortrad",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lanortrad-v1.4.3.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/lanortrad/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lanortrad-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104003",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6624592926208705847",
+            "name": "LanorTrad",
+            "language": "fr",
+            "homeUrl": "https://lanortrad.com"
+          }
+        ]
+      },
+      {
         "name": "Lelmanga",
         "packageName": "eu.kanade.tachiyomi.extension.fr.lelmanga",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.lelmanga-v1.4.34.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lelmanga-v1.4.35.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/lelmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.lelmanga-v1.4.34.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lelmanga-v1.4.35.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "versionCode": "104035",
+        "versionName": "1.4.35",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1274,16 +1589,37 @@
         ]
       },
       {
+        "name": "Lelscan",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.lelscan",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lelscan-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/lelscan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lelscan-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104002",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8620544519921042006",
+            "name": "Lelscan",
+            "language": "fr",
+            "homeUrl": "https://lelscans.net"
+          }
+        ]
+      },
+      {
         "name": "Lelscan-VF",
         "packageName": "eu.kanade.tachiyomi.extension.fr.lelscanvf",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.lelscanvf-v1.4.16.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lelscanvf-v1.4.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/lelscanvf/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.lelscanvf-v1.4.16.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lelscanvf-v1.4.17.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104016",
-        "versionName": "1.4.16",
+        "versionCode": "104017",
+        "versionName": "1.4.17",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1295,16 +1631,121 @@
         ]
       },
       {
-        "name": "MangaNova",
-        "packageName": "eu.kanade.tachiyomi.extension.fr.manganova",
+        "name": "Les Poroiniens",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.lesporoiniens",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.manganova-v1.4.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/manganova/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.manganova-v1.4.3.jar"
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lesporoiniens-v1.4.3.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/lesporoiniens/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.lesporoiniens-v1.4.3.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104003",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7783284177278678538",
+            "name": "Les Poroiniens",
+            "language": "fr",
+            "homeUrl": "https://lesporoiniens.org"
+          }
+        ]
+      },
+      {
+        "name": "Manga-Corporation",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangacorporation",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangacorporation-v1.6.7.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/mangacorporation/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangacorporation-v1.6.7.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1528177119657303302",
+            "name": "Manga-Corporation",
+            "language": "fr",
+            "homeUrl": "https://manga-corporation.com"
+          }
+        ]
+      },
+      {
+        "name": "MangaHub.fr",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangahubfr",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangahubfr-v1.6.57.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/mangahubfr/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangahubfr-v1.6.57.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3294884430139323314",
+            "name": "MangaHub.fr",
+            "language": "fr",
+            "homeUrl": "https://mangahub.fr"
+          }
+        ]
+      },
+      {
+        "name": "Mangakawaii",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangakawaii-v1.4.40.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/mangakawaii/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangakawaii-v1.4.40.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104040",
+        "versionName": "1.4.40",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1384625280015637699",
+            "name": "Mangakawaii",
+            "language": "fr",
+            "homeUrl": "https://www.mangakawaii.io"
+          }
+        ]
+      },
+      {
+        "name": "MangaMoins",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangamoins",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangamoins-v1.4.13.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/mangamoins/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangamoins-v1.4.13.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104013",
+        "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6508647660473520087",
+            "name": "MangaMoins",
+            "language": "fr",
+            "homeUrl": "https://mangamoins.com"
+          }
+        ]
+      },
+      {
+        "name": "MangaNova",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.manganova",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.manganova-v1.4.4.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/manganova/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.manganova-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104004",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1316,16 +1757,37 @@
         ]
       },
       {
+        "name": "Manga-Scantrad",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangascantrad",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangascantrad-v1.6.59.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/mangascantrad/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangascantrad-v1.6.59.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "540252682818453285",
+            "name": "Manga-Scantrad",
+            "language": "fr",
+            "homeUrl": "https://manga-scantrad.io"
+          }
+        ]
+      },
+      {
         "name": "Mangas-Origines.fr",
         "packageName": "eu.kanade.tachiyomi.extension.fr.mangasoriginesfr",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.mangasoriginesfr-v1.6.62.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangasoriginesfr-v1.6.63.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/mangasoriginesfr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.mangasoriginesfr-v1.6.62.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangasoriginesfr-v1.6.63.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106062",
-        "versionName": "1.6.62",
+        "versionCode": "106063",
+        "versionName": "1.6.63",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1340,13 +1802,13 @@
         "name": "Mangas Scans",
         "packageName": "eu.kanade.tachiyomi.extension.fr.mangasscans",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.mangasscans-v1.4.34.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangasscans-v1.4.35.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/mangasscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.mangasscans-v1.4.34.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.mangasscans-v1.4.35.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "versionCode": "104035",
+        "versionName": "1.4.35",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1361,13 +1823,13 @@
         "name": "NovelFrance",
         "packageName": "eu.kanade.tachiyomi.extension.fr.novelfrance",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/d31ab8c/tachiyomi-fr.novelfrance-v1.4.2.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.novelfrance-v1.4.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/d31ab8c/tachiyomi-fr.novelfrance-v1.4.2.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.novelfrance-v1.4.3.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "versionCode": "104003",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1379,16 +1841,100 @@
         ]
       },
       {
+        "name": "Ono",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.ono",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.ono-v1.4.3.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/ono/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.ono-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104003",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4944745470170824284",
+            "name": "Ono",
+            "language": "fr",
+            "homeUrl": "https://www.ono.live"
+          }
+        ]
+      },
+      {
+        "name": "Ortega Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.ortegascans",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.ortegascans-v1.6.4.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/ortegascans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.ortegascans-v1.6.4.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8598370605081191622",
+            "name": "Ortega Scans",
+            "language": "fr",
+            "homeUrl": "https://ortegascans.fr"
+          }
+        ]
+      },
+      {
+        "name": "Pantheon Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.pantheonscan",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.pantheonscan-v1.6.56.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/pantheonscan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.pantheonscan-v1.6.56.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1615599506055429686",
+            "name": "Pantheon Scan",
+            "language": "fr",
+            "homeUrl": "https://pantheon-scan.com"
+          }
+        ]
+      },
+      {
+        "name": "Perf Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.perfscan",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.perfscan-v1.4.32.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/perfscan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.perfscan-v1.4.32.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104032",
+        "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4533007917829146766",
+            "name": "Perf Scan",
+            "language": "fr",
+            "homeUrl": "https://perf-scan.xyz"
+          }
+        ]
+      },
+      {
         "name": "PhenixScans (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.fr.phenixscansco",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-fr.phenixscansco-v1.4.2.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.phenixscansco-v1.4.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/phenixscansco/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-fr.phenixscansco-v1.4.2.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.phenixscansco-v1.4.3.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "versionCode": "104003",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1400,16 +1946,37 @@
         ]
       },
       {
+        "name": "Pornhwa.fr",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.pornhwafr",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.pornhwafr-v1.4.33.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/pornhwafr/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.pornhwafr-v1.4.33.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104033",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4388148978547727168",
+            "name": "Pornwha.fr",
+            "language": "fr",
+            "homeUrl": "https://pornhwa.fr"
+          }
+        ]
+      },
+      {
         "name": "Poseidon Scans",
         "packageName": "eu.kanade.tachiyomi.extension.fr.poseidonscans",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.poseidonscans-v1.4.52.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.poseidonscans-v1.4.53.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/poseidonscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.poseidonscans-v1.4.52.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.poseidonscans-v1.4.53.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104052",
-        "versionName": "1.4.52",
+        "versionCode": "104053",
+        "versionName": "1.4.53",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1424,13 +1991,13 @@
         "name": "Raijin Scans",
         "packageName": "eu.kanade.tachiyomi.extension.fr.raijinscans",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.raijinscans-v1.4.69.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.raijinscans-v1.4.70.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/raijinscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.raijinscans-v1.4.69.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.raijinscans-v1.4.70.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104069",
-        "versionName": "1.4.69",
+        "versionCode": "104070",
+        "versionName": "1.4.70",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1445,13 +2012,13 @@
         "name": "Rimu Scans",
         "packageName": "eu.kanade.tachiyomi.extension.fr.rimuscans",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.rimuscans-v1.4.36.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.rimuscans-v1.4.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/rimuscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.rimuscans-v1.4.36.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.rimuscans-v1.4.37.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104036",
-        "versionName": "1.4.36",
+        "versionCode": "104037",
+        "versionName": "1.4.37",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1463,16 +2030,121 @@
         ]
       },
       {
-        "name": "Scantrad Union",
-        "packageName": "eu.kanade.tachiyomi.extension.fr.scantradunion",
+        "name": "X-Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scanhentaimenu",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.scantradunion-v1.4.4.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/scantradunion/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.scantradunion-v1.4.4.jar"
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scanhentaimenu-v1.6.59.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/scanhentaimenu/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scanhentaimenu-v1.6.59.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4153742697148883998",
+            "name": "X-Manga",
+            "language": "fr",
+            "homeUrl": "https://x-manga.org"
+          }
+        ]
+      },
+      {
+        "name": "Scan-Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scanmanga",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scanmanga-v1.4.24.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/scanmanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scanmanga-v1.4.24.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104024",
+        "versionName": "1.4.24",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2062108502806113139",
+            "name": "Scan-Manga",
+            "language": "fr",
+            "homeUrl": "https://m.scan-manga.com"
+          }
+        ]
+      },
+      {
+        "name": "ScanR",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scanr",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scanr-v1.4.4.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/scanr/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scanr-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104004",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5710047468564158686",
+            "name": "ScanR",
+            "language": "fr",
+            "homeUrl": "https://teamscanr.fr"
+          }
+        ]
+      },
+      {
+        "name": "Scan Reader",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scanreader",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scanreader-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/scanreader/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scanreader-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104002",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6450715347254021327",
+            "name": "Scan Reader",
+            "language": "fr",
+            "homeUrl": "https://scanreader.net"
+          }
+        ]
+      },
+      {
+        "name": "ScansFR",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scansfr",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scansfr-v1.4.4.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/scansfr/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scansfr-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104004",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2639384491930845930",
+            "name": "ScansFR",
+            "language": "fr",
+            "homeUrl": "https://scansfr.com"
+          }
+        ]
+      },
+      {
+        "name": "Scantrad Union",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scantradunion",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scantradunion-v1.4.5.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/scantradunion/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scantradunion-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104005",
+        "versionName": "1.4.5",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1487,13 +2159,13 @@
         "name": "Scan VF",
         "packageName": "eu.kanade.tachiyomi.extension.fr.scanvf",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.scanvf-v1.4.16.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scanvf-v1.4.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/scanvf/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.scanvf-v1.4.16.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.scanvf-v1.4.17.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104016",
-        "versionName": "1.4.16",
+        "versionCode": "104017",
+        "versionName": "1.4.17",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1508,13 +2180,13 @@
         "name": "Siren Scans FR",
         "packageName": "eu.kanade.tachiyomi.extension.fr.sirenscansfr",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.sirenscansfr-v1.6.22.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.sirenscansfr-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/sirenscansfr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.sirenscansfr-v1.6.22.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.sirenscansfr-v1.6.23.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106022",
-        "versionName": "1.6.22",
+        "versionCode": "106023",
+        "versionName": "1.6.23",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1529,13 +2201,13 @@
         "name": "Soft Epsilon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.softepsilonscan",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.softepsilonscan-v1.4.56.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.softepsilonscan-v1.4.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/softepsilonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.softepsilonscan-v1.4.56.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.softepsilonscan-v1.4.57.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104056",
-        "versionName": "1.4.56",
+        "versionCode": "104057",
+        "versionName": "1.4.57",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1547,16 +2219,37 @@
         ]
       },
       {
+        "name": "Solaris Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.solarisscans",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.solarisscans-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/solarisscans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.solarisscans-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1172624746268381921",
+            "name": "Solaris Scans",
+            "language": "fr",
+            "homeUrl": "https://solaris-scans.fr"
+          }
+        ]
+      },
+      {
         "name": "Sushi-Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.sushiscan",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.sushiscan-v1.4.50.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.sushiscan-v1.4.51.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/sushiscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.sushiscan-v1.4.50.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.sushiscan-v1.4.51.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104050",
-        "versionName": "1.4.50",
+        "versionCode": "104051",
+        "versionName": "1.4.51",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1571,13 +2264,13 @@
         "name": "Sushiscan.fr",
         "packageName": "eu.kanade.tachiyomi.extension.fr.sushiscanfr",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.sushiscanfr-v1.4.36.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.sushiscanfr-v1.4.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/sushiscanfr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.sushiscanfr-v1.4.36.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.sushiscanfr-v1.4.37.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104036",
-        "versionName": "1.4.36",
+        "versionCode": "104037",
+        "versionName": "1.4.37",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1592,13 +2285,13 @@
         "name": "Toon FR",
         "packageName": "eu.kanade.tachiyomi.extension.fr.toonfr",
         "resources": {
-          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.toonfr-v1.6.55.apk",
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.toonfr-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/toonfr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/adfbd15/tachiyomi-fr.toonfr-v1.6.55.jar"
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.toonfr-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1606,6 +2299,48 @@
             "name": "Toon FR",
             "language": "fr",
             "homeUrl": "https://toonfr.com"
+          }
+        ]
+      },
+      {
+        "name": "Twatt",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.twatt",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.twatt-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/twatt/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.twatt-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104002",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5157242904926355900",
+            "name": "Twatt",
+            "language": "fr",
+            "homeUrl": "https://twatt.fr"
+          }
+        ]
+      },
+      {
+        "name": "YaoiScan",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.yaoiscan",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.yaoiscan-v1.4.34.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/yaoiscan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/3c39e5a/tachiyomi-fr.yaoiscan-v1.4.34.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104034",
+        "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7333825394865171341",
+            "name": "YaoiScan",
+            "language": "fr",
+            "homeUrl": "https://yaoiscan.fr"
           }
         ]
       },
