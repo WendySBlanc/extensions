@@ -383,6 +383,33 @@
         ]
       },
       {
+        "name": "Manta Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.all.manta",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-all.manta-v1.6.12.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/all/manta/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-all.manta-v1.6.12.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8753096034341798862",
+            "name": "Manta",
+            "language": "en",
+            "homeUrl": "https://manta.net/en"
+          },
+          {
+            "id": "2857546552946901153",
+            "name": "Manta",
+            "language": "es",
+            "homeUrl": "https://manta.net/es"
+          }
+        ]
+      },
+      {
         "name": "Project Suki",
         "packageName": "eu.kanade.tachiyomi.extension.all.projectsuki",
         "resources": {
@@ -484,6 +511,72 @@
             "name": "The Library of Ohara",
             "language": "fr",
             "homeUrl": "https://thelibraryofohara.com"
+          }
+        ]
+      },
+      {
+        "name": "Webcomics",
+        "packageName": "eu.kanade.tachiyomi.extension.all.webcomics",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-all.webcomics-v1.6.12.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/all/webcomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-all.webcomics-v1.6.12.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5830834696627804450",
+            "name": "Webcomics",
+            "language": "en",
+            "homeUrl": "https://webcomicsapp.com"
+          },
+          {
+            "id": "5885774493166465039",
+            "name": "Webcomics",
+            "language": "fr",
+            "homeUrl": "https://webcomicsapp.com"
+          },
+          {
+            "id": "3396104446323720599",
+            "name": "Webcomics",
+            "language": "pt",
+            "homeUrl": "https://webcomicsapp.com"
+          },
+          {
+            "id": "8965174723997547979",
+            "name": "Webcomics",
+            "language": "es",
+            "homeUrl": "https://webcomicsapp.com"
+          },
+          {
+            "id": "1203016038113719139",
+            "name": "Webcomics",
+            "language": "id",
+            "homeUrl": "https://webcomicsapp.com"
+          }
+        ]
+      },
+      {
+        "name": "Lava Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.lavascans",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-ar.lavascans-v1.4.34.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/ar/lavascans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-ar.lavascans-v1.4.34.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104034",
+        "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3209001028102012989",
+            "name": "Lava Scans",
+            "language": "ar",
+            "homeUrl": "https://lavascans.com"
           }
         ]
       },
@@ -631,6 +724,27 @@
             "name": "Flame Comics",
             "language": "en",
             "homeUrl": "https://flamecomics.xyz"
+          }
+        ]
+      },
+      {
+        "name": "Galaxy Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.galaxymanga",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-en.galaxymanga-v1.4.33.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/en/galaxymanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-en.galaxymanga-v1.4.33.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104033",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3084421114955435608",
+            "name": "Galaxy Manga",
+            "language": "en",
+            "homeUrl": "https://galaxymanga.io"
           }
         ]
       },
@@ -971,6 +1085,27 @@
         ]
       },
       {
+        "name": "Thunder Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.thunderscans",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-en.thunderscans-v1.4.34.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/en/thunderscans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-en.thunderscans-v1.4.34.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104034",
+        "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2848420679472350044",
+            "name": "Thunder Scans",
+            "language": "en",
+            "homeUrl": "https://en-thunderscans.com"
+          }
+        ]
+      },
+      {
         "name": "Valir Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.valirscans",
         "resources": {
@@ -1240,6 +1375,27 @@
             "name": "NovelFrance",
             "language": "fr",
             "homeUrl": "https://novelfrance.fr"
+          }
+        ]
+      },
+      {
+        "name": "PhenixScans (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.phenixscansco",
+        "resources": {
+          "apkUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-fr.phenixscansco-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/WendySBlanc/extensions-source@main/src/fr/phenixscansco/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/WendySBlanc/extensions/releases/download/5ca169b/tachiyomi-fr.phenixscansco-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104002",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6081284597648692367",
+            "name": "Phenix Scans (unoriginal)",
+            "language": "fr",
+            "homeUrl": "https://phenix-scans.co"
           }
         ]
       },
