@@ -561,12 +561,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.japscan": {
     "apk": {
-      "name": "tachiyomi-fr.japscan-v1.6.0.apk",
-      "sha256": "3ce1dd8f0ff6615251c97c11c89317766025f9c3cd627cbd48b8e5c616090f81"
+      "name": "tachiyomi-fr.japscan-v1.6.1.apk",
+      "sha256": "5f3177dce8ad3166960ee60af9efe63c91903690775d4fb64028a5ad1d6c88a0"
     },
     "jar": {
-      "name": "tachiyomi-fr.japscan-v1.6.0.jar",
-      "sha256": "542c19b43ed4be110d189dfcf7d2abe110bf3f39e6930d14a16c5e7df68bce69"
+      "name": "tachiyomi-fr.japscan-v1.6.1.jar",
+      "sha256": "02a5931c77d7573ec860584cb8b78f104c324f768a3941affb17e8eb624b8f69"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.kiwiyascans": {
