@@ -472,11 +472,11 @@
   "eu.kanade.tachiyomi.extension.fr.epsilonscan": {
     "apk": {
       "name": "tachiyomi-fr.epsilonscan-v1.6.54.apk",
-      "sha256": "36ec352e96b89844a95316baad83e29f05ddf6e58d5c5bcc5b8e9dd757d20571"
+      "sha256": "df4b947211ee707f53146d7292bbaa490cc9f77321223817b5b72b63b68ecee4"
     },
     "jar": {
       "name": "tachiyomi-fr.epsilonscan-v1.6.54.jar",
-      "sha256": "15becae5a452fc2d69b442736c8e8d92ed37915938e6c1caa0d076bbf96d50ae"
+      "sha256": "9c866483b23075829df367071d3703f5bfe5ab31cf1ea28340bfb62fad0f6d52"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.fmteam": {
@@ -871,12 +871,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.softepsilonscan": {
     "apk": {
-      "name": "tachiyomi-fr.softepsilonscan-v1.6.56.apk",
-      "sha256": "807caf1150ea0bf49491b68a59e0ed85cbbdbbc48a94cbc785f207f609d885dc"
+      "name": "tachiyomi-fr.softepsilonscan-v1.6.57.apk",
+      "sha256": "f401c7038cc6376a748904c68f3e5a9f15dcd69c9ca4cf5e7d69c548191e455f"
     },
     "jar": {
-      "name": "tachiyomi-fr.softepsilonscan-v1.6.56.jar",
-      "sha256": "a0c2e3848cbea8e84c75ee20dfd5c3f211f7a840a9315725bf21519b5de5d5a1"
+      "name": "tachiyomi-fr.softepsilonscan-v1.6.57.jar",
+      "sha256": "b6444e2a532887c647c6e3eb6c723196ce9df7d5fda25076e7f6a6cdc8d20921"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.solarisscans": {
